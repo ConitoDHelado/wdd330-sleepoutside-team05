@@ -13,6 +13,20 @@
   --small-font: 0.8em;
   --large-font: 1.2em;
 }
+/* Cart Footer Styles */
+.cart-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--light-grey);
+  padding: 1rem;
+  border-top: 2px solid var(--primary-color);
+  font-size: var(--large-font);
+  margin-top: 1rem;
+}
+.cart-footer.hide {
+  display: none;
+}
 
 * {
   margin: 0;
