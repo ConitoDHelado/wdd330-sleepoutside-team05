@@ -11,7 +11,7 @@ export default class ProductData {
   constructor(category) {
     // category = "tents" → points to src/json/tents.json
     this.category = category;
-    this.path = `../json/${this.category}.json`;
+    this.path = `./public/json/${this.category}.json`;
   }
 
   // fetch all products in this category
