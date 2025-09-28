@@ -3,7 +3,8 @@
 
 ### ⛺ SleepOutside Starter Code
 
- - This repository is the start of the SleepOutside web application project for WDD 330. earnest-dragon-608f62.netlify.app
+ - This repository is the start of the SleepOutside web application project for WDD 330.
+ - Netlify link: earnest-dragon-608f62.netlify.app
  
  The repository contains branches which are checkpoints for the team and individual assignments throughout the course.
 
